@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Rex Featherston rex.featherston@gmail.com   @satan
 
 # THANKS
 
