@@ -16,3 +16,7 @@ This is a simple web project that can be deployed on any web server.
 
 ## Hot To Contribute
 Blah blah
+
+### Copyright
+
+2017 Git.Training.
